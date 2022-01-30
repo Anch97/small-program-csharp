@@ -1,0 +1,15 @@
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/small-program-oop-c#
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/small-program-oop-c#.deps.json
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/small-program-oop-c#.runtimeconfig.json
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/small-program-oop-c#.dll
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/ref/small-program-oop-c#.dll
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/bin/Debug/net6.0/small-program-oop-c#.pdb
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.csproj.AssemblyReference.cache
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.AssemblyInfoInputs.cache
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.AssemblyInfo.cs
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.csproj.CoreCompileInputs.cache
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.dll
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/ref/small-program-oop-c#.dll
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.pdb
+/Users/ankun/IT/IT-Projects/small-program-oop-c#/obj/Debug/net6.0/small-program-oop-c#.genruntimeconfig.cache
